@@ -1,0 +1,4 @@
+blogger_general:
+    resource: "@BloggerGeneralBundle/Controller"
+    prefix:   /
+    type:     annotation
